@@ -1,6 +1,6 @@
 # ConQUR
 
-Code for ConQUR as described in "ConQUR: Mitigating Delusional Bias in Deep
+Code for ConQUR (ICML 21) "ConQUR: Mitigating Delusional Bias in Deep
 Q-learning" by Andy Su, Jayden Ooi, Tyler Lu, Dale Schuurmans, and Craig
 Boutilier.
 
